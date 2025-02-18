@@ -18,7 +18,7 @@ padding: 0;
 line-height: 1.6;
 header {
 
-background-color: #4CAF50;
+background-color: #0f0d0c;
 
 color: white;
 
@@ -100,7 +100,7 @@ font-size: 1.1em;
 
 a {
 
-color: #4CAF50;
+color:  #0f0d0c;
 
 text-decoration: none;
 
@@ -114,7 +114,7 @@ text-decoration: underline;
 }
 img {
 
-border: 5px solid #4CAF50;
+border: 5px solid  #0f0d0c;
 
 border-radius: 10px;
 
