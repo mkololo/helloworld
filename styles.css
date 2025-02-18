@@ -126,3 +126,10 @@ color: #ff5722;
 font-weight: bold;
 
 }
+main a[href^="mailto:"] {
+
+color: #ff5722;
+
+font-weight: bold;
+
+}
